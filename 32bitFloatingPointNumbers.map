@@ -1,0 +1,31 @@
+
+AVRASM ver. 2.1.17  G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.asm Wed Jun 01 16:35:20 2016
+
+
+EQU  SPH          0000003e
+EQU  SPL          0000003d
+EQU  RAMEND       00000060
+EQU  PORTA        0000001b
+EQU  PORTD        00000049
+EQU  DDRA         0000001a
+EQU  PINA         00000019
+EQU  PIND         00000010
+EQU  DDRD         00000011
+EQU  PORTC        00000015
+EQU  DDRC         000000b1
+EQU  PINC         00000013
+EQU  PORTx        00000049
+EQU  GIMSK        0000003b
+EQU  MCUCR        00000035
+EQU  TIMSK        00000039
+DEF  temp         r17
+DEF  chdir        r20
+DEF  buttonpress  r19
+DEF  buttonpresss r18
+DEF  YL           r28
+DEF  YH           r29
+DEF  ZL           r30
+DEF  ZH           r31
+DEF  count        r16
+CSEG loop         00000006
+CSEG delay_loop   00000014

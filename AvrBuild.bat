@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "G:\32bitFloatingPointNumbers\labels.tmp" -fI -W+ie -o "G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.hex" -d "G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.obj" -e "G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.eep" -m "G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.map" "G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.asm"

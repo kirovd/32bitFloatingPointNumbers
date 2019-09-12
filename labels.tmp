@@ -1,0 +1,24 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.17</VERSION>
+ <DEVICE>Unknown</DEVICE>
+ <WORKING_DIR>G:\32bitFloatingPointNumbers</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.asm</FILE><LINE>59</LINE></loop>
+  <delay_loop><FILE>G:\32bitFloatingPointNumbers\32bitFloatingPointNumbers.asm</FILE><LINE>110</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
